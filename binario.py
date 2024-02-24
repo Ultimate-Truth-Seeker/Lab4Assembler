@@ -65,7 +65,7 @@ def menu():
                     break
         
         if (s == 1):
-            print(intToBinary(input("Ingrese un número entero entre -127 y 127: \n")))
+            print(intToBinary(input("Ingrese un número entero: \n")))
         elif (s == 2):
             print(binaryToC2(input("Ingrese un número binario de 8 bits: \n")))
         elif (s == 3):
